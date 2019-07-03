@@ -13,7 +13,7 @@ description: Quantitative Psychology, especially Psychometrics
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://drive.google.com/open?id=1eZykDy6t_Gy4HC1XtznFoW87LSDZ0Ejm
+avatar: https://drive.google.com/uc?id=1eZykDy6t_Gy4HC1XtznFoW87LSDZ0Ejm
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -45,6 +45,9 @@ footer-links:
   tumblr: # https://<username>.tumblr.com
   twitter: 
   youtube: # channel/<your_long_string> or user/<user-name>
+
+# Text under the icons in footer
+footer-text: © 2019 lee-ey
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
